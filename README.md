@@ -201,10 +201,12 @@ sns.boxplot(x="height",data=df5)
 
 # Null Values:
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/8e7d37d7-dfa6-4fa7-b19f-1438a402de3f)
+
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/75d702bc-18fa-42a8-8959-dcad0e6b5e18)
 
 # Dataset Shape:
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/574ce2cb-a759-47ee-83b1-b37e85b2040a)
+
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/12dc8ee4-125b-4c53-a348-2ab0f968e642)
 
 # Weight - With outliers:
