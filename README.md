@@ -184,6 +184,7 @@ sns.boxplot(x="height",data=df5)
 # (4) For the data set height_weight.csv detect weight and height outliers using IQR method:
 # Dataset:
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/c5edf9ef-748e-40a2-b8b5-9a98f8ee35a5)
+
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/175d5808-7146-4643-9821-bee466860067)
 
 # Dataset Head:
@@ -193,10 +194,12 @@ sns.boxplot(x="height",data=df5)
 
 # Dataset Info:
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/814478d5-1cb1-4534-a6d6-5be8da7abf18)
+
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/4980b389-c33c-432e-996a-f1f2fe23ad15)
 
 # Dataset Describe:
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/1318f1ba-a052-48bd-8453-03ac28b275b5)
+
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/55bde9cd-00e2-4323-b449-3f942ad8da84)
 
 # Null Values:
