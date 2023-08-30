@@ -222,15 +222,23 @@ sns.boxplot(x="height",data=df5)
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/a8dd2d81-16b2-4b0c-88f4-059f6a45b270)
 
 # Height - With outliers:
+![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/aeb6a637-65ba-4e32-83df-e0ce22ba7ebc)
+
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/b4b35c6f-be69-4282-be10-59b8178b09e2)
 
 # Height - Dataset after removing Outliers using IQR method:
+![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/b0658206-51fb-4acd-8c3b-43488c86b5bb)
+
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/2c2ac983-3303-4614-8d8a-c35a6726ffb8)
 
 # Height - Shape of Dataset after removing Outliers using IQR method:
+![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/5f46fbe5-8439-4e86-bcd9-0fbd4ff96405)
+
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/34ef27a8-7657-4099-9040-0cd718f31d2f)
 
 # Height - Without Outliers using IQR method:
+![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/d1ff62f4-6f56-4041-9510-bfbb11300c33)
+
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/14b9077a-e937-4301-9010-dfc58d33bd75)
 
 # Result:
