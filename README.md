@@ -150,10 +150,10 @@ sns.boxplot(x="height",data=df5)
 ![Screenshot 2023-08-30 221641](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/a4e07716-49c0-4cb9-8327-bc1a228089c8)
 
 # Dataset Info:
-![Screenshot 2023-08-30 221649](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/92b7aad7-2fa0-45e9-9a6e-3d8b00dc799c)
+![Screenshot 2023-08-30 221656](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/2bd7ae67-aa9d-469a-a66d-94ab6699d798)
 
 # Dataset Describe:
-![Screenshot 2023-08-30 221656](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/90f48872-f3a1-4e30-9105-5458af03194c)
+![Screenshot 2023-08-30 221649](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/61091282-24bb-48eb-a8e6-6682bdfb80c5)
 
 # Null Values:
 ![Screenshot 2023-08-30 221738](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/25a39f68-6992-43f7-b7fd-415d640ce518)
