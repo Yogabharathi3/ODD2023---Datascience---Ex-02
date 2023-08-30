@@ -166,6 +166,7 @@ sns.boxplot(x="height",data=df5)
 
 # price_per_sqft - Dataset after removing outliers:
 ![Screenshot 2023-08-30 221757](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/2355e7d6-b883-49a5-a268-6e0060ff9df7)
+![Screenshot 2023-08-30 221805](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/4d6473d8-d0f3-43fa-80a7-ac2fe4fea5d3)
 
 # price_per_sqft - Shape of Dataset after removing outliers:
 ![Screenshot 2023-08-30 221810](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/d64afa36-0c83-418a-a503-876dca696804)
