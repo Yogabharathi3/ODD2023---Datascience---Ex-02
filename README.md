@@ -213,7 +213,7 @@ sns.boxplot(x="height",data=df5)
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/7f298cea-7402-4126-81e0-71de9ef6a18d)
 
 # Weight - Dataset after removing Outliers using IQR method:
-![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/5d384aa4-0f86-4a84-87da-64b72dcfd656)
+![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/5d0151c7-158b-4a3b-9ec1-1f62c728f382)
 
 # Weight - Shape of Dataset after removing Outliers using IQR method:
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/a7163d89-d801-497c-83af-8bc418191e20)
