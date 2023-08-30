@@ -188,6 +188,7 @@ sns.boxplot(x="height",data=df5)
 
 # Dataset Head:
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/1102e08d-e2bd-43b0-b233-3ac814479838)
+
 ![image](https://github.com/Yogabharathi3/ODD2023---Datascience---Ex-02/assets/118899387/45ab2b2c-2c05-433e-b55c-56caebc61d4d)
 
 # Dataset Info:
